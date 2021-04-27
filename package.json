@@ -10,7 +10,11 @@
     "react-ga": "^2.3.5",
     "react-scripts": "1.0.17"
   },
+<<<<<<< Updated upstream
   "homepage": "https://Danny-Support.github.io/portfolio",
+=======
+  "homepage": "https://github.com/Danny-Support/portfolio",
+>>>>>>> Stashed changes
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
