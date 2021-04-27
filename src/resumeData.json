@@ -1,32 +1,28 @@
 {
   "main": {
-    "name":"Student Name",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Daniel Arnette",
+    "description":"I am a student",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "student@uvawise.com",
+    "bio":"I'm a guy who is just trying to learn to code.",
+    "contactmessage":"Contact by E-mail",
+    "email": "dra6n@uvawise.edu",
     "address":{
-      "city":"Charlottesville",
-      "state":"Virginia",
-      "zip": "22903"
+      "city":"",
+      "state":"",
+      "zip": ""
     },
-    "website": "<username>.github.io",
-    "resumedownload":"LINK TO YOUR RESUME HERE - CAN HOST IT ON GDRIVE",
+    "website": "username.github.io",
+
+    "resumedownload":"https://drive.google.com/file/d/1RuNTUfbKgqSQvoTDUwLoQO3g9N11Zt3A/view?usp=sharing",
     "social":[
       {
-        "name":"twitter", 
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/yoururl/",
+        "url":"https://www.linkedin.com/in/dannysupport/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/githubusername",
+        "url":"https://github.com/Danny-Support",
         "className":"fa fa-github"
       }
     ]
@@ -34,29 +30,12 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Solve questions pertaining to a database",
+        "category":"Schoolwork",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://github.com/Danny-Support/API-Code/commit/34ceed709bab4b218eb8eec116209e55e889416f"
       }
+      
     ]
   }
 }
